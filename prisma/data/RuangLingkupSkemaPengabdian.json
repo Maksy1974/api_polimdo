@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Pemberdayaan Masyarakat Pemula",
+        "skema": "PEMBERDAYAAN BERBASIS MASYARAKAT"
+    },
+    {
+        "name": "Pemberdayaan Kemitraan Masyarakat",
+        "skema": "PEMBERDAYAAN BERBASIS MASYARAKAT"
+    },
+    {
+        "name": "Pemberdayaan Masyarakat oleh Mahasiswa",
+        "skema": "PEMBERDAYAAN BERBASIS MASYARAKAT"
+    },
+    {
+        "name": "Kewirausahaan Berbasis Mahasiswa",
+        "skema": "PEMBERDAYAAN BERBASIS KEWIRAUSAHAAN"
+    },
+    {
+        "name": "Pemberdayaan Mitra Usaha Produk Unggulan Daerah",
+        "skema": "PEMBERDAYAAN BERBASIS KEWIRAUSAHAAN"
+    },
+    {
+        "name": "Pengembangan Usaha Kampus",
+        "skema": "PEMBERDAYAAN BERBASIS KEWIRAUSAHAAN"
+    },
+    {
+        "name": "Pemberdayaan Wilayah",
+        "skema": "PEMBERDAYAAN BERBASIS WILAYAH"
+    },
+    {
+        "name": "Pemberdayaan Desa Binaan",
+        "skema": "PEMBERDAYAAN BERBASIS WILAYAH"
+    },
+    {
+        "name": "Pemberdayaan Mitra Vokasi",
+        "skema": "PEMBERDAYAAN MITRA VOKASI"
+    }
+]

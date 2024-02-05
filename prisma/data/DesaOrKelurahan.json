@@ -1,0 +1,259 @@
+[
+    {
+        "name": "Tondegesan",
+        "kecamatanId": 1
+    },
+    {
+        "name": "Sendangan",
+        "kecamatanId": 1
+    },
+    {
+        "name": "Kinali",
+        "kecamatanId": 1
+    },
+    {
+        "name": "Warembungan",
+        "kecamatanId": 2
+    },
+    {
+        "name": "Sea",
+        "kecamatanId": 2
+    },
+    {
+        "name": "Kali",
+        "kecamatanId": 2
+    },
+    {
+        "name": "Kamanga",
+        "kecamatanId": 3
+    },
+    {
+        "name": "Tember",
+        "kecamatanId": 3
+    },
+    {
+        "name": "Tolok",
+        "kecamatanId": 3
+    },
+    {
+        "name": "Wulauan",
+        "kecamatanId": 4
+    },
+    {
+        "name": "Kembuan",
+        "kecamatanId": 4
+    },
+    {
+        "name": "Sumalangka",
+        "kecamatanId": 4
+    },
+    {
+        "name": "Maesa Unima",
+        "kecamatanId": 5
+    },
+    {
+        "name": "Urongo",
+        "kecamatanId": 5
+    },
+    {
+        "name": "Koya",
+        "kecamatanId": 5
+    },
+    {
+        "name": "Pakadoodan",
+        "kecamatanId": 6
+    },
+    {
+        "name": "Bitung Timur",
+        "kecamatanId": 6
+    },
+    {
+        "name": "Kekenturan Dua",
+        "kecamatanId": 6
+    },
+    {
+        "name": "Batulubang",
+        "kecamatanId": 7
+    },
+    {
+        "name": "Pancuran",
+        "kecamatanId": 7
+    },
+    {
+        "name": "Papusungan",
+        "kecamatanId": 7
+    },
+    {
+        "name": "Kasawari",
+        "kecamatanId": 8
+    },
+    {
+        "name": "Makawidey",
+        "kecamatanId": 8
+    },
+    {
+        "name": "Pinangunian",
+        "kecamatanId": 8
+    },
+    {
+        "name": "Pobundayan",
+        "kecamatanId": 9
+    },
+    {
+        "name": "Motoboi Kecil",
+        "kecamatanId": 9
+    },
+    {
+        "name": "Tabang",
+        "kecamatanId": 9
+    },
+    {
+        "name": "Kotamobagu",
+        "kecamatanId": 10
+    },
+    {
+        "name": "Mogolaing",
+        "kecamatanId": 10
+    },
+    {
+        "name": "Mongkonai",
+        "kecamatanId": 10
+    },
+    {
+        "name": "Matali",
+        "kecamatanId": 11
+    },
+    {
+        "name": "Motoboi Besar",
+        "kecamatanId": 11
+    },
+    {
+        "name": "Moyang",
+        "kecamatanId": 11
+    },
+    {
+        "name": "Biga",
+        "kecamatanId": 12
+    },
+    {
+        "name": "Pontodon",
+        "kecamatanId": 12
+    },
+    {
+        "name": "Genggulang",
+        "kecamatanId": 12
+    },
+    {
+        "name": "Bahu",
+        "kecamatanId": 13
+    },
+    {
+        "name": "Malalayang I",
+        "kecamatanId": 13
+    },
+    {
+        "name": "Winangun I",
+        "kecamatanId": 13
+    },
+    {
+        "name": "Buha",
+        "kecamatanId": 14
+    },
+    {
+        "name": "Kairagi II",
+        "kecamatanId": 14
+    },
+    {
+        "name": "Mapanget Barat",
+        "kecamatanId": 14
+    },
+    {
+        "id": 43,
+        "name": "Perkamil",
+        "kecamatanId": 15
+    },
+    {
+        "name": "Paal Dua",
+        "kecamatanId": 15
+    },
+    {
+        "name": "Ranomuut",
+        "kecamatanId": 15
+    },
+    {
+        "name": "Tuminting",
+        "kecamatanId": 16
+    },
+    {
+        "name": "Sumompo",
+        "kecamatanId": 16
+    },
+    {
+        "name": "Kampung Islam",
+        "kecamatanId": 16
+    },
+    {
+        "name": "Banjer",
+        "kecamatanId": 17
+    },
+    {
+        "name": "Tikala Ares",
+        "kecamatanId": 17
+    },
+    {
+        "name": "Taas",
+        "kecamatanId": 17
+    },
+    {
+        "name": "Taratara",
+        "kecamatanId": 18
+    },
+    {
+        "name": "Woloan I",
+        "kecamatanId": 18
+    },
+    {
+        "name": "Kampung Jawa",
+        "kecamatanId": 19
+    },
+    {
+        "name": "Lahendong",
+        "kecamatanId": 19
+    },
+    {
+        "name": "Walian",
+        "kecamatanId": 19
+    },
+    {
+        "name": "Kamasi",
+        "kecamatanId": 20
+    },
+    {
+        "name": "Kolongan",
+        "kecamatanId": 20
+    },
+    {
+        "name": "Talete I",
+        "kecamatanId": 20
+    },
+    {
+        "name": "Kumelembuay",
+        "kecamatanId": 21
+    },
+    {
+        "name": "Rurukan",
+        "kecamatanId": 21
+    },
+    {
+        "name": "Kakaskasen",
+        "kecamatanId": 22
+    },
+    {
+        "name": "Kayawu",
+        "kecamatanId": 22
+    },
+    {
+        "name": "Wailan",
+        "kecamatanId": 22
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Kawangkoan",
+        "kotaOrKabupatenId": 1
+    },
+    {
+        "name": "Pineleng",
+        "kotaOrKabupatenId": 1
+    },
+    {
+        "name": "Tompaso",
+        "kotaOrKabupatenId": 1
+    },
+    {
+        "name": "Tondano Utara",
+        "kotaOrKabupatenId": 1
+    },
+    {
+        "name": "Tondano Selatan",
+        "kotaOrKabupatenId": 1
+    },
+    {
+        "name": "Maesa",
+        "kotaOrKabupatenId": 2
+    },
+    {
+        "name": "Lembeh Selatan",
+        "kotaOrKabupatenId": 2
+    },
+    {
+        "name": "Aertembaga",
+        "kotaOrKabupatenId": 2
+    },
+    {
+        "name": "Kotamobagu Selatan",
+        "kotaOrKabupatenId": 3
+    },
+    {
+        "name": "Kotamobagu Barat",
+        "kotaOrKabupatenId": 3
+    },
+    {
+        "name": "Kotamobagu Timur",
+        "kotaOrKabupatenId": 3
+    },
+    {
+        "name": "Kotamobagu Utara",
+        "kotaOrKabupatenId": 3
+    },
+    {
+        "name": "Malalayang",
+        "kotaOrKabupatenId": 4
+    },
+    {
+        "name": "Mapanget",
+        "kotaOrKabupatenId": 4
+    },
+    {
+        "name": "Paal Dua",
+        "kotaOrKabupatenId": 4
+    },
+    {
+        "name": "Tuminting",
+        "kotaOrKabupatenId": 4
+    },
+    {
+        "name": "Tikala",
+        "kotaOrKabupatenId": 4
+    },
+    {
+        "name": "Tomohon Barat",
+        "kotaOrKabupatenId": 5
+    },
+    {
+        "name": "Tomohon Selatan",
+        "kotaOrKabupatenId": 5
+    },
+    {
+        "name": "Tomohon Tengah",
+        "kotaOrKabupatenId": 5
+    },
+    {
+        "name": "Tomohon Timur",
+        "kotaOrKabupatenId": 5
+    },
+    {
+        "name": "Tomohon Utara",
+        "kotaOrKabupatenId": 5
+    }
+]
+
+

@@ -1,0 +1,223 @@
+[
+    {
+        "name": "Admin",
+        "nomor_tlp": "085691411365",
+        "email": "admin@gmail.com",
+        "password": "admin1234",
+        "username": "admin_00",
+        "nidn": "122324BD",
+        "jurusanId": 1,
+        "roleId": 1
+    },
+    {
+        "name": "Reviewer",
+        "email": "reviewer@gmail.com",
+        "password": "reviewer1234",
+        "username": "reviewer_00",
+        "roleId": 2
+    },
+    {
+        "name": "Reviewer1",
+        "email": "reviewer1@gmail.com",
+        "password": "reviewer1234",
+        "username": "reviewer_01",
+        "roleId": 2
+    },
+    {
+        "name": "Reviewer2",
+        "email": "reviewer2@gmail.com",
+        "password": "reviewer1234",
+        "username": "reviewer_02",
+        "roleId": 2
+    },
+    {
+        "name": "Reviewer3",
+        "email": "reviewer3@gmail.com",
+        "password": "reviewer1234",
+        "username": "reviewer_03",
+        "roleId": 2
+    },
+    {
+        "name": "Reviewer4",
+        "email": "reviewer4@gmail.com",
+        "password": "reviewer1234",
+        "username": "reviewer_04",
+        "roleId": 2
+    },
+    {
+        "name": "Dosen, SST., MIT.",
+        "email": "dosen@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_00",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen1, SST., MIT.",
+        "email": "dosen1@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_01",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen2, SST., MIT.",
+        "email": "dosen2@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_02",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen3, SST., MIT.",
+        "email": "dosen3@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_03",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen4, SST., MIT.",
+        "email": "dosen4@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_04",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen5, SST., MIT.",
+        "email": "dosen5@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_05",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen6, SST., MIT.",
+        "email": "dosen6@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_06",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen7, SST., MIT.",
+        "email": "dosen7@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_07",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen8, SST., MIT.",
+        "email": "dosen8@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_08",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen9, SST., MIT.",
+        "email": "dosen9@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_09",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen10, SST., MIT.",
+        "email": "dosen10@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_10",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen11, SST., MIT.",
+        "email": "dosen11@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_11",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen12, SST., MIT.",
+        "email": "dosen12@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_12",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen13, SST., MIT.",
+        "email": "dosen13@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_13",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen14, SST., MIT.",
+        "email": "dosen14@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_14",
+        "roleId": 3
+    },
+    {
+        "name": "Dosen15, SST., MIT.",
+        "email": "dosen15@gmail.com",
+        "password": "dosen1234",
+        "username": "dosen_15",
+        "roleId": 3
+    },
+    {
+        "name": "Mahasiswa",
+        "nim": "19024100",
+        "email": "mahasiswa@gmail.com",
+        "password": "mahasiswa1234",
+        "username": "mahasiswa_00",
+        "roleId": 4
+    },
+    {
+        "name": "Mahasiswa1",
+        "nim": "19024101",
+        "email": "mahasiswa1@gmail.com",
+        "password": "mahasiswa1234",
+        "username": "mahasiswa_01",
+        "roleId": 4
+    },
+    {
+        "name": "Mahasiswa2",
+        "nim": "19024102",
+        "email": "mahasiswa2@gmail.com",
+        "password": "mahasiswa1234",
+        "username": "mahasiswa_02",
+        "roleId": 4
+    },
+    {
+        "name": "Mahasiswa3",
+        "nim": "19024103",
+        "email": "mahasiswa3@gmail.com",
+        "password": "mahasiswa1234",
+        "username": "mahasiswa_03",
+        "roleId": 4
+    },
+    {
+        "name": "Mahasiswa4",
+        "nim": "19024104",
+        "email": "mahasiswa4@gmail.com",
+        "password": "mahasiswa1234",
+        "username": "mahasiswa_04",
+        "roleId": 4
+    },
+    {
+        "name": "Mahasiswa5",
+        "nim": "19024105",
+        "email": "mahasiswa5@gmail.com",
+        "password": "mahasiswa1234",
+        "username": "mahasiswa_05",
+        "roleId": 4
+    },
+    {
+        "name": "Mahasiswa6",
+        "nim": "19024106",
+        "email": "mahasiswa6@gmail.com",
+        "password": "mahasiswa1234",
+        "username": "mahasiswa_06",
+        "roleId": 4
+    },
+    {
+        "name": "Mahasiswa7",
+        "nim": "19024107",
+        "email": "mahasiswa7@gmail.com",
+        "password": "mahasiswa1234",
+        "username": "mahasiswa_07",
+        "roleId": 4
+    }
+]

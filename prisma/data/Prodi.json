@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Teknik Informatika",
+        "nameJurusan": "Teknik Elektro"
+    },
+    {
+        "name": "Teknik Listrik",
+        "nameJurusan": "Teknik Elektro"
+
+    },
+    {
+        "name": "Teknik Komputer",
+        "nameJurusan": "Teknik Elektro"
+    },
+    {
+        "name": "Akutansi Perpajakan",
+        "nameJurusan": "Akutansi"
+    },
+    {
+        "name": "Akutansi Keuangan",
+        "nameJurusan": "Akutansi"
+    }
+]

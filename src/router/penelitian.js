@@ -1,0 +1,31 @@
+const router = require('express').Router()
+const {getAllAssesmentPenelitian, getPenelitianForNilai, getPenelitianArrov, getAllPenelitianByKapro, getAllLolosPenelitian, getAllDitolakPenelitian, getAllSeleksiPenelitian, getByAllPenelitianForCatatanHarian, getByAllPenelitianForLaporan, getStatisticByUser, getAllDiajukanPenelitian, getAllPengusulPenelitian, getAllKeangotaanPenelitian, UpdateStatusPartisiPasiPenelitian, getByAllPenelitian, getByIdPenelitian, createPenelitian, updatePenelitian, deletePenelitian} = require('../controller/penelitian.contoller')
+const authJWT = require('../middleware/passport-jwt')
+const {upload, MulterError} = require('../middleware/multerPdf')
+const penelitianValidator = require('../middleware/validasi/ItemPenelitian.validasi')
+const validasiCreatePenelitian = require('../middleware/conditionsCreatePenelitian')
+const validate = require('./../middleware/expressValidator')
+
+
+router.get('/', authJWT, getByAllPenelitian)
+router.get('/assesment', authJWT, getAllAssesmentPenelitian)
+router.get('/nilai', authJWT, getPenelitianForNilai)
+router.get('/approv', authJWT, getPenelitianArrov)
+router.get('/prodi', authJWT, getAllPenelitianByKapro)
+router.get('/seleksi', authJWT, getAllSeleksiPenelitian)
+router.get('/lolos', authJWT, getAllLolosPenelitian)
+router.get('/ditolak', authJWT, getAllDitolakPenelitian)
+router.get('/catatanHarian', authJWT, getByAllPenelitianForCatatanHarian)
+router.get('/laporan', authJWT, getByAllPenelitianForLaporan)
+router.get('/statisticPenelitian', authJWT, getStatisticByUser)
+router.get('/keanggotaan', authJWT, getAllKeangotaanPenelitian)
+router.get('/usulan', authJWT, getAllPengusulPenelitian)
+router.get('/diajukan', authJWT, getAllDiajukanPenelitian)
+router.get('/:id',authJWT, getByIdPenelitian)
+router.post('/', authJWT, upload.single('usulan_pdf'), penelitianValidator.CreatePenelitian(), validate, validasiCreatePenelitian, MulterError, createPenelitian)
+router.patch('/:id', authJWT, upload.single('usulan_pdf'), MulterError, updatePenelitian)
+router.patch('/statusPartisipasi/:id', authJWT, UpdateStatusPartisiPasiPenelitian)
+router.delete('/:id', authJWT, deletePenelitian)
+
+
+module.exports = router
