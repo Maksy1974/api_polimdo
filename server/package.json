@@ -6,9 +6,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+   
+
   "keywords": [],
   "author": "",
   "license": "ISC",
+"prisma":{
+  "seed":"node prisma/seed.js"
+},
   "description": "",
   "dependencies": {
     "@prisma/client": "^6.6.0",
