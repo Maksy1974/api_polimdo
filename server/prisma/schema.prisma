@@ -49,5 +49,38 @@ model User {
   prodiId   Int
   jurusan   Jurusan @relation(fields: [jurusanId], references: [id])
   prodi     Prodi   @relation(fields: [prodiId], references: [id])
+  ketuaDari Kegiatan[] @relation("KetuaKegiatan")
+  anggotaDari KegiatanAnggota[]
 }
+
+model Skema{
+  id Int @id @default(autoincrement())
+  nama String
+  kategori String
+  kegiatan Kegiatan[]
+}
+
+model Kegiatan{
+  id Int @id @default(autoincrement())
+  judul String
+  kategori String
+  abstrak String @db.Text
+  skemaId Int
+  skema Skema @relation(fields: [skemaId],references: [id])
+  ketuaId Int
+  ketua User @relation("KetuaKegiatan",fields: [ketuaId],references: [id])
+  anggota KegiatanAnggota[]
+}
+
+model KegiatanAnggota{
+  id Int @id @default(autoincrement())
+  userId Int
+  user User @relation(fields: [userId],references: [id])
+  kegiatanId Int
+  kegiatan Kegiatan @relation(fields: [kegiatanId],references: [id])
+  peran String
+
+}
+
+
 

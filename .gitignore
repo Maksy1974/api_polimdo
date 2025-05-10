@@ -1,0 +1,26 @@
+node_modules# Ignore node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment files
+.env
+
+# Prisma artifacts
+server/prisma/dev.db
+server/prisma/.DS_Store
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Build output (React)
+client/build/
